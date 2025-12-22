@@ -42,27 +42,6 @@ body {
     color: hsl(218, 44%, 22%);
 }
 
-/* @media (min-width: 300px) and (max-width:600px) {
-    .container {
-        width: 80%;
-    }
-    .container p {
-        font-size: 13px;
-    }
-    .img img {
-        max-width: 15em;
-    }
-}
-@media (min-width: 600px) and (max-width:1000px) {
-    .container {
-        width: 40%;
-    }
-    .container p {
-        font-size: 13px;
-    }
-    .img img {
-        max-width: 15em;
-    }
-} */
+
 
 
