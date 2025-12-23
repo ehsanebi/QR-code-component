@@ -13,7 +13,6 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "Outfit", sans-serif;
-    font-size: 15px;
 }
 
 .container {
@@ -24,7 +23,7 @@ body {
     background-color: white;
     width: 100%;
     max-width: 320px;
-    padding: 10px;
+    padding: 1.25rem;
     border-radius: 10px;
 }
 
@@ -33,13 +32,16 @@ body {
     border-radius: 10px;
 }
 
-.container h3 {
+.container h1 {
     font-weight: 700;
+    font-size: 1.4rem;
+    color: hsl(218, 44%, 22%);
 }
 
 .container p {
     font-weight: 400;
-    color: hsl(218, 44%, 22%);
+    color: hsl(216, 15%, 48%);
+    font-size: 0.9rem;
 }
 
 
